@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hello, folks! 👋</h1>
-<h2 align="left">Passionate DevOps & Cloud Enthusiast</h2>
+<h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
