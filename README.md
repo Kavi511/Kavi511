@@ -15,7 +15,11 @@
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
-### 🎯 Learning Philosophy
+### Learning Philosophy
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" alt="learning philosophy" width="150" height="150" />
+</div>
 
 ```
 Learn → Apply → Fail → Adapt → Master
