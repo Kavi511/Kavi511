@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxNTc3MzMsIm5iZiI6MTc2ODE1NzQzMywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTExVDE4NTAzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiNTcxNjc3YzBiY2E2MTRjMWNmZWZjNjI3OThmMTBkMGExNjY3YjMxMWVjODY5Nzg1MzVmM2JjNzQ4MzZjY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MALPSzkFsiXVL6cVCfCwrCQ_GsIX1IOy8vGYgFAKRuw" alt="animated header" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
 
-<h1 align="left">Hello, folks!</h1>
+<h1 align="left">Hello, folks! 👋</h1>
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
 <p align="center">
