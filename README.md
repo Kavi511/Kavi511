@@ -18,12 +18,9 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 ### Learning Philosophy
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" alt="learning philosophy" width="150" height="150" />
+  <strong>Learn → Apply → Fail → Adapt → Master</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" alt="learning philosophy" width="150" height="150" style="vertical-align: middle; margin-left: 10px;" />
 </div>
-
-```
-Learn → Apply → Fail → Adapt → Master
-```
 
 ---
 
