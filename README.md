@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
 
-<h2 align="center">Kavishka Herath</h2>
-<h3 align="center">Computer Science Undergraduate | DevOps & Cloud Enthusiast ☁️</h3>
+<h1 align="left">Hello, folks! 👋</h1>
+<h2 align="left">Passionate DevOps & Cloud Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
