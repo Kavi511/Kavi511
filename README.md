@@ -33,38 +33,6 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 $ ls -la tech_stack/
 ```
 
-### Languages & Scripting
-- **Python** - Automation, scripting, and tooling
-- **Bash/Shell** - System administration and automation
-- **YAML** - Configuration management
-
-### Cloud & Infrastructure
-- **AWS** - Cloud services and architecture
-- **Linux** - System administration and operations
-- **Terraform** - Infrastructure as Code
-
-### Containers & Orchestration
-- **Docker** - Containerization
-- **Kubernetes** - Container orchestration
-
-### CI/CD & DevOps Tools
-- **Git/GitHub** - Version control and collaboration
-- **GitHub Actions** - CI/CD pipelines
-- **Jenkins** - Automation server
-
-### Monitoring & Observability
-- **Prometheus** - Metrics collection
-- **Grafana** - Visualization and dashboards
-
-### Web & Backend
-- **Nginx** - Web server and reverse proxy
-- **Node.js** - Backend development
-
-### Databases
-- **PostgreSQL** - Relational database
-- **MySQL** - Relational database
-- **MongoDB** - NoSQL database
-
 <p align="left">
 <!-- Cloud -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
@@ -79,7 +47,6 @@ $ ls -la tech_stack/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45"/>
 
 <!-- CI/CD -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
 
 <!-- IaC -->
