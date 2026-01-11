@@ -33,40 +33,71 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 $ ls -la tech_stack/
 ```
 
+<style>
+  .float-icon {
+    animation: float 3s ease-in-out infinite;
+    display: inline-block;
+    margin: 0 10px;
+  }
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  .float-icon:nth-child(1) { animation-delay: 0s; }
+  .float-icon:nth-child(2) { animation-delay: 0.2s; }
+  .float-icon:nth-child(3) { animation-delay: 0.4s; }
+  .float-icon:nth-child(4) { animation-delay: 0.6s; }
+  .float-icon:nth-child(5) { animation-delay: 0.8s; }
+  .float-icon:nth-child(6) { animation-delay: 1s; }
+  .float-icon:nth-child(7) { animation-delay: 1.2s; }
+  .float-icon:nth-child(8) { animation-delay: 1.4s; }
+  .float-icon:nth-child(9) { animation-delay: 1.6s; }
+  .float-icon:nth-child(10) { animation-delay: 1.8s; }
+  .float-icon:nth-child(11) { animation-delay: 2s; }
+  .float-icon:nth-child(12) { animation-delay: 2.2s; }
+  .float-icon:nth-child(13) { animation-delay: 2.4s; }
+  .float-icon:nth-child(14) { animation-delay: 2.6s; }
+  .float-icon:nth-child(15) { animation-delay: 2.8s; }
+</style>
+
 <p align="left">
 <!-- Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></span>
 
 <!-- OS & Core -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></span>
 
 <!-- Containers -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45"/></span>
 
 <!-- CI/CD -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/></span>
 
 <!-- IaC -->
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
+<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></span>
 
 <!-- Monitoring -->
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></span>
+<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></span>
 
 <!-- Backend & Web -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></span>
 
 <!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></span>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></span>
 
 <!-- Scripting -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></span>
 
 </p>
 
