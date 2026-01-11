@@ -6,7 +6,26 @@
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" width="200" height="30" />
+  <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://x.com/herath_kavishka" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="40" width="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://medium.com/@kavishkacherath" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" height="40" width="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.strava.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" style="margin: 0 15px;" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Email:</strong> <a href="mailto:kavishkacherath@gmail.com">kavishkacherath@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
 </p>
 
 ---
@@ -58,29 +77,6 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
 </div>
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="margin: 0 15px;" />
-  </a>
-  <a href="https://x.com/herath_kavishka" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="40" width="40" style="margin: 0 15px;" />
-  </a>
-  <a href="https://medium.com/@kavishkacherath" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" height="40" width="40" style="margin: 0 15px;" />
-  </a>
-  <a href="https://www.strava.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" style="margin: 0 15px;" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Email:</strong> <a href="mailto:kavishkacherath@gmail.com">kavishkacherath@gmail.com</a>
-</p>
 
 ---
 
