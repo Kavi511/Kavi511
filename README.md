@@ -103,6 +103,10 @@ Sharing knowledge and experiences on **Medium**:
 
 <h3 align="center">🔗 Connect with Me</h3>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="animated" width="300" height="300" />
+</div>
+
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="margin: 0 15px;" />
