@@ -11,13 +11,13 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
@@ -42,7 +42,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-##Currently Learning
+## Currently Learning
 
 - **Kubernetes** - Basic cluster setup and deployment
 - **AWS Services** - EC2, S3, and basic cloud architecture
@@ -53,7 +53,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -70,7 +70,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-##Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
