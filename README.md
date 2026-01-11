@@ -61,7 +61,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 <p align="left">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://x.com/herath_kavishka" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/x/000000" alt="x" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://medium.com/@kavishkacherath" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://x.com/herath_kavishka" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="x" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle; background-color: #000000; border-radius: 50%; padding: 8px;" /> </a>
+  <a href="https://medium.com/@kavishkacherath" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="medium" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle; background-color: #000000; border-radius: 5px; padding: 5px;" /> </a>
   <a href="https://www.strava.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
 </p>
