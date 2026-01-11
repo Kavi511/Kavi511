@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science Undergraduate | DevOps & Cloud Enthusiast ☁️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavi511" />
+  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
 </p>
 
 ---
@@ -75,15 +75,15 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kavi511&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=kavi511&theme=dark&background=000000&border=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=darkhub&no-frame=true&row=1&column=7&bg_color=000000" />
 </p>
 
 ---
