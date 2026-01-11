@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-</div>
+
 
 <h2 align="center">Kavishka Herath</h2>
 <h3 align="center">Computer Science Undergraduate | DevOps & Cloud Enthusiast ☁️</h3>
