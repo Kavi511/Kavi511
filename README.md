@@ -18,10 +18,9 @@
   <a href="https://www.strava.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" style="margin: 0 15px;" />
   </a>
-</p>
-
-<p align="left">
-  <strong>Email:</strong> <a href="mailto:kavishkacherath@gmail.com">kavishkacherath@gmail.com</a>
+  <a href="mailto:kavishkacherath@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="40" width="40" style="margin: 0 15px;" />
+  </a>
 </p>
 
 <p align="left">
