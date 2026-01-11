@@ -2,18 +2,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
 
-<h1 align="left">Hello, folks!</h1>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="hello" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  Hello, folks!
+</h1>
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
 ---
 
-## About Me
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="about" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> About Me
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
 ---
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/sithum20210380/sithum20210380/main/Skills_Animation_Dark.gif" alt="tech" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
@@ -38,7 +41,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## Currently Learning
+## <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="learning" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Currently Learning
 
 - **Kubernetes** - Basic cluster setup and deployment
 - **AWS Services** - EC2, S3, and basic cloud architecture
@@ -49,7 +52,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## Activity Graph
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="activity" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
@@ -57,7 +60,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle; padding: 6px; box-sizing: border-box;" /> </a>
