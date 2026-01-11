@@ -15,15 +15,11 @@
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
-<div align="center">
-
 ### 🎯 Learning Philosophy
 
 ```
 Learn → Apply → Fail → Adapt → Master
 ```
-
-</div>
 
 ---
 
@@ -63,22 +59,6 @@ Learn → Apply → Fail → Adapt → Master
 
 ---
 
-## 🚀 Goals & Roadmap
-
-**Short-term (Next 3-6 months):**
-- [ ] Complete AWS Solutions Architect Associate certification
-- [ ] Build and deploy a production-ready microservices application
-- [ ] Contribute to open-source DevOps projects
-- [ ] Master Kubernetes administration and troubleshooting
-
-**Long-term:**
-- [ ] Become proficient in multi-cloud architectures
-- [ ] Specialize in cloud-native security practices
-- [ ] Build expertise in infrastructure automation at scale
-- [ ] Mentor others in DevOps and cloud technologies
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,13 +73,6 @@ Learn → Apply → Fail → Adapt → Master
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 📝 Writing
-
-Sharing knowledge and experiences on **Medium**:  
-👉 [https://medium.com/@kavishkacherath](https://medium.com/@kavishkacherath)
 
 ---
 
