@@ -30,16 +30,16 @@
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://x.com/herath_kavishka" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
   </a>
   <a href="https://medium.com/@kavishkacherath" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="40" width="40" />
   </a>
   <a href="https://www.strava.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Strava_logo.png" width="40" />
+    <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" />
   </a>
 </p>
 
