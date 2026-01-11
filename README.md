@@ -1,6 +1,5 @@
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
 <div align="center">
-  <dotlottie-wc src="https://lottie.host/c2de7be1-4c8d-4cc7-9bcb-d3ad4189d887/QuSvHeQvHC.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 </div>
 
 <h2 align="center">Kavishka Herath</h2>
