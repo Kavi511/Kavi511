@@ -95,16 +95,16 @@ Sharing knowledge and experiences on **Medium**:
 
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="linkedin" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://x.com/herath_kavishka" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="40" width="40" />
+    <img src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://medium.com/@kavishkacherath" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" height="40" width="40" />
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://www.strava.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" />
+    <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" height="40" width="40" style="margin: 0 15px;" />
   </a>
 </p>
 
