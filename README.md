@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9db1f0d5af5cf18cacd620fe0f8e39d2bc2878b3
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
@@ -10,10 +14,7 @@
 </p>
 
 ---
-
-=======
-                                                                                                                                                                                                                                          
->>>>>>> 530b5494e0e1a623a3a24922532004da03f3de3f
+                                                                                                                                                                                                                    
 ## 💻 About Me
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
