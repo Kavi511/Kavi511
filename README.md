@@ -33,73 +33,26 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 $ ls -la tech_stack/
 ```
 
-<style>
-  .float-icon {
-    animation: float 3s ease-in-out infinite;
-    display: inline-block;
-    margin: 0 10px;
-  }
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-  .float-icon:nth-child(1) { animation-delay: 0s; }
-  .float-icon:nth-child(2) { animation-delay: 0.2s; }
-  .float-icon:nth-child(3) { animation-delay: 0.4s; }
-  .float-icon:nth-child(4) { animation-delay: 0.6s; }
-  .float-icon:nth-child(5) { animation-delay: 0.8s; }
-  .float-icon:nth-child(6) { animation-delay: 1s; }
-  .float-icon:nth-child(7) { animation-delay: 1.2s; }
-  .float-icon:nth-child(8) { animation-delay: 1.4s; }
-  .float-icon:nth-child(9) { animation-delay: 1.6s; }
-  .float-icon:nth-child(10) { animation-delay: 1.8s; }
-  .float-icon:nth-child(11) { animation-delay: 2s; }
-  .float-icon:nth-child(12) { animation-delay: 2.2s; }
-  .float-icon:nth-child(13) { animation-delay: 2.4s; }
-  .float-icon:nth-child(14) { animation-delay: 2.6s; }
-  .float-icon:nth-child(15) { animation-delay: 2.8s; }
-</style>
-
 <p align="left">
-<!-- Cloud -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></span>
-
-<!-- OS & Core -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></span>
-
-<!-- Containers -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45"/></span>
-
-<!-- CI/CD -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/></span>
-
-<!-- IaC -->
-<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></span>
-
-<!-- Monitoring -->
-<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/></span>
-<span class="float-icon"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></span>
-
-<!-- Backend & Web -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></span>
-
-<!-- Databases -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></span>
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></span>
-
-<!-- Scripting -->
-<span class="float-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></span>
-
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
 </p>
+
+> **Note:** GitHub READMEs have limitations with CSS animations. For true floating animations, consider hosting an HTML file via GitHub Pages or using animated badge services. The icons above are properly spaced and styled for optimal display.
 
 ---
 
