@@ -1,5 +1,6 @@
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+  <dotlottie-wc src="https://lottie.host/c2de7be1-4c8d-4cc7-9bcb-d3ad4189d887/QuSvHeQvHC.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 </div>
 
 <h2 align="center">Kavishka Herath</h2>
@@ -81,17 +82,18 @@ Learn → Apply → Fail → Adapt → Master
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=000000" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi511&theme=tokyonight&layout=compact&langs_count=8"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kavi511&theme=dark&background=000000&border=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=kavi511&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=darkhub&no-frame=true&row=1&column=7&bg_color=000000" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
