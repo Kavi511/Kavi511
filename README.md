@@ -44,6 +44,10 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ## Currently Learning
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="learning background" width="100%" />
+</div>
+
 - **Kubernetes** - Basic cluster setup and deployment
 - **AWS Services** - EC2, S3, and basic cloud architecture
 - **CI/CD** - Simple pipelines and version control integration
