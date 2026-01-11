@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
 
-<h1 align="left">
+<h1 align="left" style="font-size: 2.5em;">
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
   Hello, folks!
 </h1>
@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="about" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> About Me
+## 💻 About Me
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
@@ -41,7 +41,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="learning" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Currently Learning
+## 📚 Currently Learning
 
 - **Kubernetes** - Basic cluster setup and deployment
 - **AWS Services** - EC2, S3, and basic cloud architecture
@@ -52,11 +52,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="activity" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Activity Graph
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="activity animation" width="100%" />
-</div>
+## 📊 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
