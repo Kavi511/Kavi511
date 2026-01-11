@@ -1,5 +1,35 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+  <svg width="100%" height="300" style="margin-bottom: -300px; opacity: 0.08;">
+    <defs>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#00ff00;stop-opacity:0.3">
+          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="50%" style="stop-color:#0000ff;stop-opacity:0.3">
+          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" style="stop-color:#00ff00;stop-opacity:0.3">
+          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" begin="3s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <pattern id="animatedDots" width="80" height="80" patternUnits="userSpaceOnUse">
+        <circle cx="40" cy="40" r="2" fill="#00ff00" opacity="0.4">
+          <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="0" r="1.5" fill="#00ff00" opacity="0.3">
+          <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="80" cy="80" r="1.5" fill="#00ff00" opacity="0.3">
+          <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
+        </circle>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+    <rect width="100%" height="100%" fill="url(#animatedDots)"/>
+  </svg>
+  <div style="position: relative;">
+    <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+  </div>
 </div>
 
 <h2 align="center">Kavishka Herath</h2>
