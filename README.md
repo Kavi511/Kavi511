@@ -32,12 +32,17 @@
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+  <a href="https://x.com/herath_kavishka" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+  </a>
   <a href="https://medium.com/@kavishkacherath" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" />
   </a>
+  <a href="https://www.strava.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Strava_logo.png" width="40" />
+  </a>
 </p>
 
----
 
 <h3 align="left">🛠️ DevOps & Cloud Technologies</h3>
 <p align="left">
