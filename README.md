@@ -71,7 +71,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
 </div>
 
 ---
