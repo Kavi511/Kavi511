@@ -91,9 +91,9 @@ Sharing knowledge and experiences on **Medium**:
 
 ---
 
-## 🔗 Connect with Me
+<h3 align="center">🔗 Connect with Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" height="40" width="40" />
   </a>
@@ -108,7 +108,9 @@ Sharing knowledge and experiences on **Medium**:
   </a>
 </p>
 
-**Email:** kavishkacherath@gmail.com
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:kavishkacherath@gmail.com">kavishkacherath@gmail.com</a>
+</p>
 
 ---
 
