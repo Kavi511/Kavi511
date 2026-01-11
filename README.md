@@ -44,25 +44,10 @@ Learn → Apply → Fail → Adapt → Master
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
 </p>
-
-**Tech Stack:**
-- Python 🐍
-- Node.js 🌿
-- MySQL 🐬
-- PostgreSQL 🐘
-- MongoDB 🍃
-- Git
-- GitLab 🐙
-- Docker 🐳
-- Kubernetes ☸️
-- Jenkins 🧪
-- Terraform 🔷
-- Prometheus ⏱
-- Grafana 📊
-- NGINX 🟢
-- AWS ☁️
 
 ---
 
