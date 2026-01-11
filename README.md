@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="animated header" width="100%" />
 </div>
 
-<h1 align="left">Hello, folks! 👋</h1>
+<h1 align="left">Hello, folks!</h1>
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
 <p align="left">
@@ -52,21 +52,6 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 - **Security** - Intro to container security and DevOps best practices
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi511&theme=tokyonight&layout=compact&langs_count=8&bg_color=0d1117&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kavi511&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ## Activity Graph
 
