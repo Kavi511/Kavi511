@@ -1,14 +1,3 @@
-
-
-<h2 align="center">Kavishka Herath</h2>
-<h3 align="center">Computer Science Undergraduate | DevOps & Cloud Enthusiast ☁️</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
-</p>
-
----
-
 ## 💻 About Me
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
