@@ -1,35 +1,5 @@
 <div align="center">
-  <svg width="100%" height="300" style="margin-bottom: -300px; opacity: 0.08;">
-    <defs>
-      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00ff00;stop-opacity:0.3">
-          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="50%" style="stop-color:#0000ff;stop-opacity:0.3">
-          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" begin="1.5s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" style="stop-color:#00ff00;stop-opacity:0.3">
-          <animate attributeName="stop-opacity" values="0.2;0.5;0.2" dur="5s" begin="3s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-      <pattern id="animatedDots" width="80" height="80" patternUnits="userSpaceOnUse">
-        <circle cx="40" cy="40" r="2" fill="#00ff00" opacity="0.4">
-          <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="0" cy="0" r="1.5" fill="#00ff00" opacity="0.3">
-          <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="80" cy="80" r="1.5" fill="#00ff00" opacity="0.3">
-          <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.8s" begin="1.2s" repeatCount="indefinite"/>
-        </circle>
-      </pattern>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#bgGradient)"/>
-    <rect width="100%" height="100%" fill="url(#animatedDots)"/>
-  </svg>
-  <div style="position: relative;">
-    <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-  </div>
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6MzR0b3U5Nnltc3NlOTJvMWR2YzRieWcxem1mcmxkNXppaDVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 </div>
 
 <h2 align="center">Kavishka Herath</h2>
@@ -45,33 +15,54 @@
 
 I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
 
-**Learning Philosophy:** *Build → Break → Learn → Repeat* 🚀
+<div align="center">
+
+### 🎯 Learning Philosophy
+
+```
+Learn → Apply → Fail → Adapt → Master
+```
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
 </p>
+
+**Tech Stack:**
+- Python 🐍
+- Node.js 🌿
+- MySQL 🐬
+- PostgreSQL 🐘
+- MongoDB 🍃
+- Git
+- GitLab 🐙
+- Docker 🐳
+- Kubernetes ☸️
+- Jenkins 🧪
+- Terraform 🔷
+- Prometheus ⏱
+- Grafana 📊
+- NGINX 🟢
+- AWS ☁️
 
 ---
 
