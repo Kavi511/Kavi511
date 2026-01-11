@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="hello" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
   Hello, folks!
 </h1>
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
