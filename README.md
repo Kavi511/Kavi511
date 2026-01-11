@@ -7,20 +7,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" alt="linkedin" height="40" width="40" style="margin: 0 15px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/herath_kavishka" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="40" width="40" style="margin: 0 15px;" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://medium.com/@kavishkacherath" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" height="40" width="40" style="margin: 0 15px;" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.strava.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/strava/000000" alt="strava" height="40" width="40" style="margin: 0 15px;" />
+    <img src="https://img.shields.io/badge/Strava-000000?style=flat-square&logo=strava&logoColor=white" alt="Strava" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" />
 </p>
 
