@@ -19,10 +19,6 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sithum20210380/sithum20210380/main/Skills_Animation_Dark.gif" alt="tech stack animation" width="100%" />
-</div>
-
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
