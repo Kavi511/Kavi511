@@ -68,6 +68,12 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
   <img src="https://github-profile-trophy.vercel.app/?username=kavi511&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 ---
 
 ## Connect with Me
