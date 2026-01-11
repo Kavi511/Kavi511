@@ -52,7 +52,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="activity" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Activity Graph
+## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="activity" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
