@@ -70,10 +70,7 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-<h3 align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />
-  Connect with Me
-</h3>
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
