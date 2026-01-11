@@ -5,22 +5,6 @@
 <h1 align="left">Hello, folks!</h1>
 <h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kavishka-herath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px;" />
-  </a>
-  <a href="https://x.com/herath_kavishka" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="margin: 0 10px;" />
-  </a>
-  <a href="https://medium.com/@kavishkacherath" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.strava.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Strava-000000?style=flat-square&logo=strava&logoColor=white" alt="Strava" style="margin: 0 10px;" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kavi511&label=Profile%20views&color=000000&style=flat-square" alt="kavi511" style="margin: 0 10px;" />
-</p>
-
 ---
 
 ## About Me
@@ -73,3 +57,11 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
+## Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/kavishka-herath" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://x.com/herath_kavishka" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/x/000000" alt="x" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://medium.com/@kavishkacherath" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/medium/000000" alt="medium" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://www.strava.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+</p>
