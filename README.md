@@ -20,16 +20,19 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
@@ -38,14 +41,14 @@ I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud En
 
 ---
 
-## 🟢 Currently Learning
+## 📚 Currently Learning
 
-- **Advanced Kubernetes** - Service mesh, operators, and cluster management
-- **AWS Advanced Services** - EKS, Lambda, CloudFormation, and architecture patterns
-- **CI/CD Best Practices** - Pipeline optimization and security scanning
-- **Infrastructure as Code** - Terraform modules and best practices
-- **Monitoring & Observability** - Distributed tracing, logging, and alerting
-- **Security** - DevSecOps, container security, and compliance
+- **Kubernetes** - Basic cluster setup and deployment
+- **AWS Services** - EC2, S3, and basic cloud architecture
+- **CI/CD** - Simple pipelines and version control integration
+- **Infrastructure as Code (IaC)** - Terraform fundamentals and basic scripts
+- **Monitoring & Observability** - Basic logging and alerts
+- **Security** - Intro to container security and DevOps best practices
 
 ---
 
