@@ -46,7 +46,7 @@ Learn → Apply → Fail → Adapt → Master
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="ubuntu" width="40" height="40" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="display: inline-block; margin: 0 10px; vertical-align: middle;" /> </a>
 </p>
 
