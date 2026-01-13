@@ -6,13 +6,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
   Hello, folks!
 </h1>
-<h2 align="left">Aspiring DevOps & Cloud Enthusiast</h2>
+<h2 align="left">Aspiring SRE & Cloud Technologies Enthusiast</h2>
 
 ---
 
 ## 💻 About Me
 
-I'm an undergraduate student with a deep curiosity for **DevOps** and **Cloud Engineering**. I believe in continuous learning, building practical solutions, and contributing to the open-source community. Currently exploring the intersection of infrastructure automation, containerization, and scalable cloud architectures.
+I'm an undergraduate student with a deep curiosity for Site Reliability Engineering (SRE) and Cloud Technologies. I believe in continuous learning, building practical solutions and contributing to the open source community. I’m still learning and growing in this field, currently exploring the intersection of infrastructure automation, containerization and scalable cloud architectures.
 
 ---
 
