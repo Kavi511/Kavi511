@@ -6,11 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
   Hello, folks!
 </h1>
-<h2 align="left">DevOps & Site Reliability Engineering (SRE) Aspirant | Passionate About Cloud Security, Infrastructure & AI</h2>
 
----
 
-## 💻 About Me
+## About Me
 
 Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy building reliable, scalable and secure systems while continuously learning, experimenting with new technologies and contributing to open source projects.
 
@@ -45,7 +43,7 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Kubernetes** - Basic cluster setup and deployment
 - **AWS Services** - EC2, S3, and basic cloud architecture
@@ -56,7 +54,7 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
 
 ---
 
-## 📊 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
