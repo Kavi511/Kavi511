@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-I'm an undergraduate student with a deep curiosity for Site Reliability Engineering (SRE) and Cloud Technologies. I believe in continuous learning, building practical solutions and contributing to the open source community. I’m still learning and growing in this field, currently exploring the intersection of infrastructure automation, containerization and scalable cloud architectures.
+Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy building reliable, scalable and secure systems while continuously learning, experimenting with new technologies and contributing to open source projects.
 
 ---
 
