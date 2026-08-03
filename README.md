@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
   Hello, folks!
 </h1>
-<h2 align="left">Cloud, SRE & Security Aspirant | AI and Data Enthusiast</h2>
+<h2 align="left">DevOps & Site Reliability Engineering (SRE) Aspirant | Passionate About Cloud Security, Infrastructure & AI</h2>
 
 ---
 
