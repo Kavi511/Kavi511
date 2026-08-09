@@ -20,8 +20,8 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" /></a></td>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></a></td>
