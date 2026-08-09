@@ -51,14 +51,14 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
 
 > Actively building hands-on experience across the core DevOps & Platform Engineering stack as a CS graduate breaking into the field.
 
-- **Python & Bash Scripting** - Writing automation scripts for infrastructure tasks, log parsing, and system administration workflows
-- **AWS (Solutions Architect Track)** - Hands-on with EC2, S3, VPC, IAM, EKS and core cloud networking and architecture concepts
-- **CI/CD Pipelines** - Building end-to-end pipelines with GitHub Actions and GitLab CI; exploring GitOps workflows and pipeline best practices
-- **Infrastructure as Code (IaC)** - Writing and structuring Terraform modules for repeatable, version-controlled infrastructure provisioning
-- **Security & DevSecOps** - Exploring container security, secrets management with HashiCorp Vault, and integrating security scanning into CI/CD pipelines
-- **Monitoring & Observability** - Building Prometheus alert rules and Grafana dashboards; learning log aggregation, SLO/SLI concepts and metrics-driven operations
-- **Containerisation & Docker** - Deepening knowledge of Docker image optimisation, multi-stage builds, container networking and compose workflows
-- **Linux System Administration** - Practising filesystem navigation, permissions, process management, shell scripting and service configuration on Ubuntu/Linux environments
+- **Python & Bash Scripting** - Writing automation scripts for infrastructure tasks, log parsing, and system administration workflows.
+- **AWS (Solutions Architect Track)** - Hands-on with EC2, S3, VPC, IAM, EKS and core cloud networking and architecture concepts.
+- **CI/CD Pipelines** - Building end-to-end pipelines with GitHub Actions and GitLab CI; exploring GitOps workflows and pipeline best practices.
+- **Infrastructure as Code (IaC)** - Writing and structuring Terraform modules for repeatable, version-controlled infrastructure provisioning.
+- **Security & DevSecOps** - Exploring container security, secrets management with HashiCorp Vault, and integrating security scanning into CI/CD pipelines.
+- **Monitoring & Observability** - Building Prometheus alert rules and Grafana dashboards; learning log aggregation, SLO/SLI concepts and metrics-driven operations.
+- **Containerisation & Docker** - Deepening knowledge of Docker image optimisation, multi-stage builds, container networking and compose workflows.
+- **Linux System Administration** - Practising filesystem navigation, permissions, process management, shell scripting and service configuration on Ubuntu/Linux environments.
 ---
 
 ## Activity Graph
