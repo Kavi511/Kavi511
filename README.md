@@ -49,7 +49,7 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
 
 ## Currently Learning
 
-> Actively building hands-on experience across the core DevOps & Platform Engineering stack as a CS graduate breaking into the field.
+> Actively building hands-on experience across the core DevOps & Platform Engineering stack as a
 
 - **Python & Bash Scripting** - Writing automation scripts for infrastructure tasks, log parsing, and system administration workflows.
 - **AWS (Solutions Architect Track)** - Hands-on with EC2, S3, VPC, IAM, EKS and core cloud networking and architecture concepts.
