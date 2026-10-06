@@ -10,9 +10,9 @@
 
 ## About Me
 
-I am a Computer Science graduate who enjoys turning challenges into practical solutions. Through hands on projects and continuous self learning, I have built a strong technical foundation along with the analytical and communication skills needed to work well with both technical and business teams.
+I am a Computer Science graduate who enjoys turning challenges into practical solutions. Through hands on projects and continuous self learning, I have built a strong technical foundation along with the ability to adapt and grow in a fast-paced environment.
 
-I adapt quickly to new environments and enjoy learning new tools and ways of working. Whether the task is analysing requirements, testing quality, supporting users, coordinating projects or improving systems, I bring a careful and reliable approach to my work.
+I adapt quickly to new environments and enjoy learning new tools and ways of working. Whether the task is analysing requirements, testing quality, supporting users, coordinating projects or improving processes, I aim to add value wherever I can.
 
 I am also curious about emerging technology and how it can be used to solve real-world problems. Alongside my career path, I contribute to research and project management at an early stage startup.
 
@@ -27,19 +27,18 @@ I am open to opportunities across technology roles and would be glad to connect 
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="filter: brightness(0) invert(1);" /></a></td>      
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" style="filter: brightness(0) invert(1);" /></a></td>      
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" /></a></td>
-<td style="border: none; padding: 0 10px 0 0;"><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="github actions" width="40" height="40" /></a></td>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="github actions" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vault/FFEC6E" alt="vault" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45" /></a>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a></td>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" width="40" height="40" /></a></td>
-  </td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" /></a></td>
@@ -47,7 +46,7 @@ I am open to opportunities across technology roles and would be glad to connect 
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="ubuntu" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" /></a></td>
+      <td style="border: none; padding: 0;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a></td>
     </tr>
   </table>
 </div>
@@ -57,20 +56,20 @@ I am open to opportunities across technology roles and would be glad to connect 
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Connect with Me
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.linkedin.com/in/kavishka-herath-2ab2b3245/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://x.com/herath_kavishka" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="x" width="40" height="40" style="background-color: #000000; border-radius: 50%; padding: 6px; box-sizing: border-box;" /></a></td>
-      <td style="border: none; padding: 0 10px 0 0;"><a href="https://medium.com/@kavishkacherath" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="medium" width="40" height="40" style="background-color: #000000; border-radius: 5px; padding: 6px; box-sizing: border-box;" /></a></td>
-      <td style="border: none; padding: 0;"><a href="https://www.strava.com/athletes/142479581?utm_source=ios_share&utm_medium=social&share_sig=C7A7D3FE1768167178&_branch_match_id=1535973652957863562&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1vdIyfRwjAwJDIxKsq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FAEh9Pvk9AAAA" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" width="40" height="40" style="padding: 6px; box-sizing: border-box;" /></a></td>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://x.com/herath_kavishka" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="x" width="40" height="40" /></a></td>
+      <td style="border: none; padding: 0 10px 0 0;"><a href="https://medium.com/@kavishkacherath" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="medium" width="40" height="40" /></a></td>
+      <td style="border: none; padding: 0;"><a href="https://www.strava.com/athletes/142479581?utm_source=ios_share&utm_medium=social&share_sig=C7A7D3FE1768167178&_branch_match_id=1535973652957863562" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/strava/FC4C02" alt="strava" width="40" height="40" /></a></td>
     </tr>
   </table>
 </div>
