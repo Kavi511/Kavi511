@@ -17,6 +17,8 @@ I adapt quickly to new environments and enjoy learning new tools and ways of wor
 I am also curious about emerging technology and how it can be used to solve real-world problems. Alongside my career path, I contribute to research and project management at an early stage startup.
 
 I am open to opportunities across technology roles and would be glad to connect with professionals and teams who are building great things.
+
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="tech" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Tech Stack
