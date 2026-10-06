@@ -3,16 +3,16 @@
 </div>
 
 <h1 align="left" style="font-size: 2.5em;">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="hello" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
   Hello, folks!
 </h1>
 
 
 ## About Me
 
-I am a Computer Science graduate who enjoys turning challenges into practical solutions. Through hands on projects and continuous self learning, I have built a strong technical foundation along with the ability to adapt and grow in a fast-paced environment.
+I am a Computer Science graduate who enjoys turning challenges into practical solutions. Through hands on projects and continuous self learning, I have built a strong technical foundation along with the ability to contribute across the full technology stack.
 
-I adapt quickly to new environments and enjoy learning new tools and ways of working. Whether the task is analysing requirements, testing quality, supporting users, coordinating projects or improving processes, I aim to add value wherever I can.
+I adapt quickly to new environments and enjoy learning new tools and ways of working. Whether the task is analysing requirements, testing quality, supporting users, coordinating projects or improving infrastructure, I strive to add value and grow as a professional.
 
 I am also curious about emerging technology and how it can be used to solve real-world problems. Alongside my career path, I contribute to research and project management at an early stage startup.
 
@@ -21,7 +21,7 @@ I am open to opportunities across technology roles and would be glad to connect 
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="tech" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="tech" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> Tech Stack
 
 <div align="left">
   <table style="border-collapse: collapse; border: none;">
@@ -53,15 +53,15 @@ I am open to opportunities across technology roles and would be glad to connect 
 
 ---
 
-## Activity Graph
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi511&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavi511&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Connect with Me
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="connect" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> Let's Connect
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
