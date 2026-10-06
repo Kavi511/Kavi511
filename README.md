@@ -10,8 +10,13 @@
 
 ## About Me
 
-Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy building reliable, scalable and secure systems while continuously learning, experimenting with new technologies and contributing to open source projects.
+I am a Computer Science graduate who enjoys turning challenges into practical solutions. Through hands on projects and continuous self learning, I have built a strong technical foundation along with the analytical and communication skills needed to work well with both technical and business teams.
 
+I adapt quickly to new environments and enjoy learning new tools and ways of working. Whether the task is analysing requirements, testing quality, supporting users, coordinating projects or improving systems, I bring a careful and reliable approach to my work.
+
+I am also curious about emerging technology and how it can be used to solve real-world problems. Alongside my career path, I contribute to research and project management at an early stage startup.
+
+I am open to opportunities across technology roles and would be glad to connect with professionals and teams who are building great things.
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="tech" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" /> Tech Stack
@@ -45,20 +50,6 @@ Passionate about DevOps, SRE, Platform Engineering and Cloudsecurity. I enjoy bu
   </table>
 </div>
 
----
-
-## Currently Learning
-
-> Actively building hands-on experience across the core DevOps & Platform Engineering stack as a  CS graduate breaking into the field.
-
-- **Python & Bash Scripting** - Writing automation scripts for infrastructure tasks, log parsing, and system administration workflows.
-- **AWS (Solutions Architect Track)** - Hands-on with EC2, S3, VPC, IAM, EKS and core cloud networking and architecture concepts.
-- **CI/CD Pipelines** - Building end-to-end pipelines with GitHub Actions and GitLab CI; exploring GitOps workflows and pipeline best practices.
-- **Infrastructure as Code (IaC)** - Writing and structuring Terraform modules for repeatable, version-controlled infrastructure provisioning.
-- **Security & DevSecOps** - Exploring container security, secrets management with HashiCorp Vault, and integrating security scanning into CI/CD pipelines.
-- **Monitoring & Observability** - Building Prometheus alert rules and Grafana dashboards; learning log aggregation, SLO/SLI concepts and metrics-driven operations.
-- **Containerisation & Docker** - Deepening knowledge of Docker image optimisation, multi-stage builds, container networking and compose workflows.
-- **Linux System Administration** - Practising filesystem navigation, permissions, process management, shell scripting and service configuration on Ubuntu/Linux environments.
 ---
 
 ## Activity Graph
