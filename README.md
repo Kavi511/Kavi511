@@ -46,7 +46,6 @@ I am open to opportunities across technology roles and would be glad to connect 
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a></td>
       <td style="border: none; padding: 0 10px 0 0;"><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="ubuntu" width="40" height="40" /></a></td>
-      <td style="border: none; padding: 0;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a></td>
     </tr>
   </table>
 </div>
